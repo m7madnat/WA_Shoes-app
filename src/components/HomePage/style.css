@@ -1,0 +1,30 @@
+img{
+    width: 75%;
+    margin-top: 50px;
+}
+
+.navbar{
+    background-color: #ffffff;    
+
+}
+.headerInfo > h1{
+    color: #ffffff;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+.homeimg{
+    position: absolute;
+    top: 480px;
+    right: 320px;
+}
+
+.drops{
+    font-size: 30px;
+    width: 100%;
+    text-decoration: none;
+}
+.homeimg a{
+    text-decoration: none;
+}
+
