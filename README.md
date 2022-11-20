@@ -1,3 +1,7 @@
+A react project where I built a Shoes App. Where you can add a shoes and edit it and delete it,
+using: JSX State Props CRUD Route API.
+
+
 ## 🚀 Live Demo:
 
 https://shoes-app-m7mad.netlify.app/
